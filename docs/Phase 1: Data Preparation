@@ -1,0 +1,17 @@
+### Phase 1: Data Preparation
+
+**Goal:**
+Generate and stage sample data for sales, product information, and customer details.
+
+**Steps:**
+1. **Generate Sample Data:**
+   - Create a Python Script to Stimulate the Data based on the below mentioned requirements.
+   - Create CSV files for daily sales data with columns: `date`, `product_id`, `customer_id`, `quantity`, `total_price`.
+   - Create a CSV file for product information with columns: `product_id`, `product_name`, `category`.
+   - Create a CSV file for customer details with columns: `customer_id`, `customer_name`, `location`.
+
+2. **Stage Sample Data:**
+   - Upload the CSV files to a Google Cloud Storage (GCS) bucket.
+
+**Outcome:**
+Three CSV files uploaded to GCS, ready for ingestion into BigQuery.
