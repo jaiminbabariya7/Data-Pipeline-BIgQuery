@@ -1,0 +1,14 @@
+### Phase 2: BigQuery Schema Definition
+
+**Goal:**
+Design and create BigQuery table schemas for sales data, products, and customer details.
+
+**Steps:**
+1. **Design Table Schemas:**
+   - Define schemas with appropriate data types for each column.
+
+2. **Create BigQuery Tables:**
+   - Use BigQuery web UI or command-line tool to create tables based on the defined schemas.
+
+**Outcome:**
+Three BigQuery tables created: `sales`, `products`, and `customers`, each with a defined schema.
