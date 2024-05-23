@@ -1,0 +1,14 @@
+### Phase 6: Automation (Optional - Bonus)
+
+**Goal:**
+Automate the data ingestion process using Cloud Scheduler and Cloud Functions.
+
+**Steps:**
+1. **Cloud Scheduler:**
+   - Set up a Cloud Scheduler job to trigger at regular intervals.
+
+2. **Cloud Function:**
+   - Develop a Cloud Function to automate downloading new data files from GCS and initiating the upsert logic.
+
+**Outcome:**
+Automated data ingestion process with regular updates and potential data cleanup.
