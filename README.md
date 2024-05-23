@@ -1,5 +1,7 @@
 # Data Pipeline Project
 
+# GCP Console Link: https://console.cloud.google.com/home/dashboard?project=data-pipeline-bigquery-424104
+
 ## Goal
 Develop a data pipeline to ingest daily sales data files, product information, and customer details from Cloud Storage (GCS) into BigQuery, enabling efficient updates, historical analysis, and data joining capabilities.
 
