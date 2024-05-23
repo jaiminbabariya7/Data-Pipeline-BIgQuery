@@ -1,0 +1,11 @@
+### Phase 5: Partitioning for Scalability
+
+**Goal:**
+Improve query performance by partitioning the sales data table.
+
+**Steps:**
+1. **Partitioning by Date:**
+   - Configure the sales data table to be partitioned by the `date` column.
+
+**Outcome:**
+Sales data table partitioned by date, enhancing query performance for specific periods.
