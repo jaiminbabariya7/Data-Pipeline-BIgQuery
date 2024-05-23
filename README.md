@@ -12,10 +12,10 @@ Develop a data pipeline to ingest daily sales data files, product information, a
 6. [Automation](docs/phase6_automation.md)
 
 ## Repository Structure
-- `data/`: Sample data files (CSV).
-- `sql/`: SQL scripts for table creation, data ingestion, and queries.
-- `cloud_function/`: Cloud Function code for automating data ingestion.
-- `docs/`: Detailed documentation for each phase of the project.
+- [data]`data/`: Sample data files (CSV).
+- [query]`query/`: SQL scripts for table creation, data ingestion, and queries.
+- [scripts]`scripts/`: Cloud Function code for automating data ingestion, and code for data stilumation
+- [docs]`docs/`: Detailed documentation for each phase of the project.
 
 ## Getting Started
 Follow the setup instructions in each phase's documentation.
