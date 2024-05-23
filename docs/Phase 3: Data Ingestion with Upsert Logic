@@ -1,0 +1,14 @@
+### Phase 3: Data Ingestion with Upsert Logic
+
+**Goal:**
+Ingest data from GCS into BigQuery and implement upsert logic.
+
+**Steps:**
+1. **External Table Definitions:**
+   - Create external tables in BigQuery pointing to the location of each data file in GCS.
+
+2. **Upsert Logic with CREATE OR REPLACE:**
+   - Implement upsert logic to handle new data inserts and updates.
+
+**Outcome:**
+Data ingested into BigQuery with upsert logic implemented for efficient updates.
