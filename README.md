@@ -4,7 +4,7 @@
 Develop a data pipeline to ingest daily sales data files, product information, and customer details from Cloud Storage (GCS) into BigQuery, enabling efficient updates, historical analysis, and data joining capabilities.
 
 ## Project Phases
-1. [`docs/Data Preparation`](docs/Phase1_data_preparation.md)
+1. [`Data Preparation`](docs/Phase1_data_preparation.md)
 2. [`docs/BigQuery Schema Definition`](docs/Phase2_schema_definition.md)
 3. [`docs/Data Ingestion with Upsert Logic`](docs/Phase3_data_ingestion.md)
 4. [`docs/Data Joining and Analysis`](docs/Phase4_data_joining_analysis.md)
