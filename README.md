@@ -18,12 +18,7 @@ Develop a data pipeline to ingest daily sales data files, product information, a
 - `docs/`: Detailed documentation for each phase of the project.
 
 ## Getting Started
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/data-pipeline-project.git
-    cd data-pipeline-project
-    ```
-2. Follow the setup instructions in each phase's documentation.
+Follow the setup instructions in each phase's documentation.
 
 ## License
 This project is licensed under the MIT License.
