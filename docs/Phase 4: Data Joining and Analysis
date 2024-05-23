@@ -1,0 +1,15 @@
+### Phase 4: Data Joining and Analysis
+
+**Goal:**
+Develop queries to join and analyze the sales, product, and customer data.
+
+**Steps:**
+1. **Write BigQuery Queries:**
+   - Join sales data with product information and customer details.
+   - Example queries:
+     - Total sales per product category over time.
+     - Identifying top-selling customers in a specific region.
+     - Analyzing customer purchase trends based on demographics.
+
+**Outcome:**
+BigQuery queries developed for data joining and analysis.
